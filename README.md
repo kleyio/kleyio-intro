@@ -10,7 +10,7 @@ I'm Kyle, an aspiring developer on a journey through the vast world of coding. H
 
 - 🤔 Seeking the wisdom of the coding sages to gain industry experience. Any tips or tricks? I'm all ears!
 
-- 📫 Reach me through the virtual cosmos at [your.email@example.com]. Let's connect and chat about code, life, or the latest tech trends!
+- 📫 Reach me through the virtual cosmos at kleynino15@gmail.com. Let's connect and chat about code, life, or the latest tech trends!
 
 - ⚡ Fun fact: Did you know I once debugged a program using only emojis? True story! 🐛🔍
 
